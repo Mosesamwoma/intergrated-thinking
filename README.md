@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Status](https://img.shields.io/badge/status-active-success.svg)
-![Version](https://img.shields.io/badge/-blue.svg)
+![Version](https://img.shields.io/badge/)
 
 **Bridging academic learning and industry practice**
 
